@@ -1,13 +1,18 @@
-Hi, I'm Clarence! 👋 
+Hi, I'm Clarence 👋  
+Junior Software QA Tester based in the Philippines.
 
-Software QA Tester
+I specialize in Manual Testing, API Testing, and Test Automation.
 
-Based in Cavite, Philippines
+🔍 What I can do:
+- Create detailed test cases and test plans
+- Perform exploratory and functional testing
+- Report bugs with clear reproduction steps
+- Conduct API testing using Postman
+- Build automation scripts using Selenium (Java)
 
-I break software so you can fix it. Focused on Manual Testing, API Testing, and UI/UX quality.
+📂 My QA Portfolio:
+- Manual Testing → Test cases, bug reports, test plans
+- API Testing → Postman collections & validation scripts
+- Automation → Selenium test scripts (Java + TestNG)
 
-* 🎓 Education: BS in Computer Engineering (Class of 2024)
-* 🔍 Expertise: Functional, Regression, and UI/UX Testing.
-* 🛠️ Tools: JIRA | Postman | | IntelliJ | Selenium | Python | SQL
-* 💻 Skills: Python | SQL | Java | JavaScript
-* 📫 Let's Connect: clarencefaithsaligumba@gmail.com.
+💡 I focus on delivering high-quality software by identifying issues early and ensuring smoot
